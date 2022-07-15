@@ -24,7 +24,7 @@
         <scala.version>2.11.12</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
         <flink.version>1.10.0</flink.version>
-        <jackson.version>2.9.10.3</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
     </properties>
 
     <dependencies>
